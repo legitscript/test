@@ -1,6 +1,6 @@
 test
 ====
-
+foo
 foo
 foo
 bar
