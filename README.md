@@ -2,5 +2,4 @@ foo
 
 bar
 
-Just testing some stuff
-test
+Just testing some stuff. Test.
